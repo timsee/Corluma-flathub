@@ -1,2 +1,2 @@
 # Corluma-flathub
-Flathub Releases for Corluma
+This repository contains linux builds of [Corluma](https://www.corluma.net/) compatible with [Flathub](https://flathub.org/en).
