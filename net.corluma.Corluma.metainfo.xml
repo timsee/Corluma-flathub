@@ -9,6 +9,10 @@
   <name>Corluma</name>
   <summary>App to control Philip&apos;s Hues, Nanoleaf products, LIFX, and Arduinos running ArduCor.</summary>
   
+  <categories>
+    <category>Utility</category>
+  </categories>
+  
   <description>
     <p>
       Choose from a variety of ways to set all your lights to a single color.
@@ -18,9 +22,27 @@
     </p>
   </description>
   
+  <screenshots>
+     <screenshot type="default">
+        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/color_page.png</image>
+      </screenshot>
+      <screenshot>
+        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/lights_page.png</image>
+      </screenshot>
+      <screenshot>
+        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
+      </screenshot>
+      <screenshot>
+        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/routines_page.png</image>
+      </screenshot>
+  </screenshots>
+  
   <releases>
      <release version="0.35.14" date="2023-06-18"/>
   </releases>
   
+  <url type="homepage">https://corluma.net</url>
+  <url type="bugtracker">https://corluma.net/contact</url>
+ 
   <launchable type="desktop-id">net.corluma.Corluma.desktop</launchable>
 </component>
