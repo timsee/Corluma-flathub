@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Corluma
+Comment=App to control Philip's Hues, Nanoleaf products, LIFX, and Arduinos running ArduCor.
+Categories=Utility;Qt;
+
+Icon=net.corluma.Corluma
+Exec=corluma
+Terminal=false
