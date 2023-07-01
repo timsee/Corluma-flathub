@@ -3,46 +3,59 @@
   <id>net.corluma.Corluma</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
-  <content_rating type="oars-1.1" />
+  <content_rating type="oars-1.1"/>
   <url type="homepage">https://corluma.net</url>
-
   <name>Corluma</name>
-  <summary>App to control Philip&apos;s Hues, Nanoleaf products, LIFX, and Arduinos running ArduCor.</summary>
-  
+  <summary>App to control Philip's Hues, Nanoleaf products, LIFX, and Arduinos running ArduCor.</summary>
   <categories>
     <category>Utility</category>
   </categories>
-  
   <description>
     <p>
-      Choose from a variety of ways to set all your lights to a single color.
+	Corluma provides a consistent interface for all lights it supports, giving users with multiple color pickers, palettes, the ability to group lights by physical rooms or custom groups, and the ability to save light settings and access them at a later date with just a few clicks.
     </p>
     <p>
-      ​Or, use palettes to quickly use multiple colors at once. Choose from a set of defaults, access the palettes saved on lights, or create your own.
+	This app does not require an account, external servers, or additional permissions such as location to use your lights. All communication is done on local wifi. You no longer have to worry about losing the ability to turn off your lights if the internet goes down.
     </p>
+    <p>
+	Corluma provides access to lights that support routines such as fading or morphing and multiple colors per light.
+    </p>
+    <p>
+	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs.
+    </p>
+    <p>
+    Features to expect:
+    <ul><li>Control all your smart lights from different brands in one place.</li><li>Groups smart lights across brands into rooms and custom groups so that you can quickly select multiple at once.</li><li>Create custom palettes, choose from defaults, or pull palettes stored locally on one light to use on a group of other lights.</li><li>Save presets for different occasions and apply them whenever you want in just a few clicks.</li><li>Save your presets and groups to disk and re-use them on other computers or mobile devices.</li></ul>
+   </p>
   </description>
-  
   <screenshots>
-     <screenshot type="default">
-        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/color_page.png</image>
-      </screenshot>
-      <screenshot>
-        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/lights_page.png</image>
-      </screenshot>
-      <screenshot>
-        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
-      </screenshot>
-      <screenshot>
-        <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/routines_page.png</image>
-      </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/color_page.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/lights_page.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/routines_page.png</image>
+    </screenshot>
   </screenshots>
-  
   <releases>
-     <release version="0.35.14" date="2023-06-18"/>
+    <release version="0.35.14" date="2023-06-18"/>
+    <release version="0.36.05" date="2023-07-01">
+      <description>
+          <ul>
+            <li>Fixed UI bugs when handling multiple Hue Bridges.</li>
+            <li>Added more information to LIFX discovery widgets.</li>
+            <li>Fixed miscellaneous bugs.</li>
+          </ul>
+      </description>
+     </release>
   </releases>
-  
   <url type="homepage">https://corluma.net</url>
   <url type="bugtracker">https://corluma.net/contact</url>
- 
   <launchable type="desktop-id">net.corluma.Corluma.desktop</launchable>
 </component>
+
