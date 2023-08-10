@@ -6,27 +6,23 @@
   <content_rating type="oars-1.1"/>
   <url type="homepage">https://corluma.net</url>
   <name>Corluma</name>
-  <summary>App to control Philip's Hues, Nanoleaf products, LIFX, and Arduinos running ArduCor.</summary>
+  <summary>Control Philip's Hues, LIFX, Nanoleafs, and Arduinos.</summary>
   <categories>
     <category>Utility</category>
   </categories>
   <description>
     <p>
-	Corluma provides a consistent interface for all lights it supports, giving users with multiple color pickers, palettes, the ability to group lights by physical rooms or custom groups, and the ability to save light settings and access them at a later date with just a few clicks.
+	Smart lights made simple. Corluma provides users with multiple color pickers and palettes. It also has the ability to group lights by physical rooms, geographic locations or into arbitrary custom groups. Did you spend a lot of time getting your lights to look <i>just</i> right? You can save light settings and set them back to their exact state at a later date with just a few clicks.
     </p>
     <p>
-	This app does not require an account, external servers, or additional permissions such as location to use your lights. All communication is done on local wifi. You no longer have to worry about losing the ability to turn off your lights if the internet goes down.
+	This app does not require an account, external servers, or additional permissions such as location data. All communication is done on local wifi. You no longer have to worry about losing the ability to turn off your lights if the internet goes down.
     </p>
     <p>
-	Corluma provides access to lights that support routines such as fading or morphing and multiple colors per light.
+	Corluma provides the ability to access light routines such as fading or morphing and multiple colors per light for all lights that support these features.
     </p>
     <p>
-	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs.
+	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs. For nanoleafs, Corluma is compatible with all lights <i>except</i> the Nanoleaf Essentials line. 
     </p>
-    <p>
-    Features to expect:
-    <ul><li>Control all your smart lights from different brands in one place.</li><li>Groups smart lights across brands into rooms and custom groups so that you can quickly select multiple at once.</li><li>Create custom palettes, choose from defaults, or pull palettes stored locally on one light to use on a group of other lights.</li><li>Save presets for different occasions and apply them whenever you want in just a few clicks.</li><li>Save your presets and groups to disk and re-use them on other computers or mobile devices.</li></ul>
-   </p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -43,6 +39,15 @@
     </screenshot>
   </screenshots>
   <releases>
+     <release version="0.37.20" date="2023-08-13">
+      <description>
+          <ul>
+            <li>Added support for grouping lights by location (IE, Home, Beach House, Work).</li>
+            <li>Added better support for light firmware effects, such as the "Candle" and "Fire" effects on newer Hues.</li>
+            <li>Fixed miscellaneous bugs.</li>
+          </ul>
+      </description>
+     </release>
      <release version="0.36.05" date="2023-07-01">
       <description>
           <ul>
