@@ -12,13 +12,10 @@
   </categories>
   <description>
     <p>
-	Smart lights made simple. Corluma provides users with multiple color pickers and palettes. It also has the ability to group lights by physical rooms, geographic locations or into arbitrary custom groups. Did you spend a lot of time getting your lights to look <i>just</i> right? You can save light settings and set them back to their exact state at a later date with just a few clicks.
+      Corluma provides users with multiple color pickers and palettes to quickly choose the exact right color for your lights. For lights that support it, Corluma can also create and access lighting routines that change colors over time. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Did you spend a lot of time getting your lights to look <i>just</i> right? You can save light settings and set them back to their exact state at a later date with just a few clicks.
     </p>
     <p>
 	This app does not require an account, external servers, or additional permissions such as location data. All communication is done on local wifi. You no longer have to worry about losing the ability to turn off your lights if the internet goes down.
-    </p>
-    <p>
-	Corluma provides the ability to access light routines such as fading or morphing and multiple colors per light for all lights that support these features.
     </p>
     <p>
 	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs. For nanoleafs, Corluma is compatible with all lights <i>except</i> the Nanoleaf Essentials line. 
@@ -39,7 +36,7 @@
     </screenshot>
   </screenshots>
   <releases>
-     <release version="0.37.20" date="2023-08-13">
+     <release version="0.37.20" date="2023-08-11">
       <description>
           <ul>
             <li>Added support for grouping lights by location (IE, Home, Beach House, Work).</li>
