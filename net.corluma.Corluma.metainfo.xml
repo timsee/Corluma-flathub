@@ -36,6 +36,15 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="0.38.04" date="2023-08-20">
+      <description>
+          <ul>
+            <li>Added support for Hue Gradient lights.</li>
+            <li>Made the brightness of Nanoleafs more consistent when switching from Scenes to Routines.</li>
+            <li>Fixed miscellaneous UI bugs.</li>
+          </ul>
+      </description>
+     </release>
      <release version="0.37.21" date="2023-08-13">
       <description>
           <ul>
