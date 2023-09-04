@@ -18,7 +18,7 @@
 	This app does not require an account, external servers, or additional permissions such as location data. All communication is done on local wifi.
     </p>
     <p>
-	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs. For Nanoleafs, Corluma is compatible with all lights except the Nanoleaf Essentials line. 
+	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs. For Nanoleafs, Corluma is compatible with all lights except the Nanoleaf Essentials line. All Hues and all LIFX are compatible.
     </p>
   </description>
   <screenshots>
@@ -36,6 +36,16 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="0.39.09" date="2023-09-04">
+      <description>
+          <ul>
+            <li>Updated the Routines page.</li>
+            <li>Moved saving and loading backup data to the Documents directory.</li>
+            <li>Fixed a bug with editing groups with very similar names.</li>
+            <li>Fixed miscellaneous UI bugs.</li>
+          </ul>
+      </description>
+     </release>
       <release version="0.38.04" date="2023-08-20">
       <description>
           <ul>
