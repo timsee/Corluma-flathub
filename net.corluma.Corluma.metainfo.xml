@@ -36,6 +36,13 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="0.39.11" date="2023-09-06">
+      <description>
+          <ul>
+            <li>Updated the Routines page.</li>
+          </ul>
+      </description>
+     </release>
       <release version="0.39.09" date="2023-09-04">
       <description>
           <ul>
