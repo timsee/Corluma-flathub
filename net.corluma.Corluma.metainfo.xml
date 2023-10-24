@@ -34,8 +34,21 @@
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/routines_page.png</image>
     </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/effects_page.png</image>
+    </screenshot>
   </screenshots>
   <releases>
+      <release version="0.40.14" date="2023-10-24">
+      <description>
+          <ul>
+            <li>Moved Effects from the Routines page into its own page.</li>
+            <li>Conslidated the Routines page.</li>
+            <li>Rebuilt the Swatches widgets on the Color page.</li>
+            <li>Added more default palettes to the Palette page.</li>
+          </ul>
+      </description>
+     </release>
       <release version="0.39.11" date="2023-09-06">
       <description>
           <ul>
