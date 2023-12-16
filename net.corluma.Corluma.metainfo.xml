@@ -39,11 +39,21 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="0.41.27" date="2023-12-16">
+      <description>
+          <ul>
+            <li>Added support for streaming colors to Hues, allowing them to change over time.</li>
+            <li>Added new palettes.</li>
+            <li>Added basic support for Nanoleaf 4D Lightstrips.</li>
+            <li>Added a new app mode for streaming light changes.</li>
+          </ul>
+      </description>
+      </release>
       <release version="0.40.14" date="2023-10-24">
       <description>
           <ul>
             <li>Moved Effects from the Routines page into its own page.</li>
-            <li>Conslidated the Routines page.</li>
+            <li>Consolidated the Routines page.</li>
             <li>Rebuilt the Swatches widgets on the Color page.</li>
             <li>Added more default palettes to the Palette page.</li>
           </ul>
