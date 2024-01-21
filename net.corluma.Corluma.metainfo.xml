@@ -12,13 +12,16 @@
   </categories>
   <description>
     <p>
-      Corluma provides users with multiple color pickers and palettes to quickly choose the exact right color for your lights. For lights that support it, Corluma can also create and access lighting routines that change colors over time. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Did you spend a lot of time getting your lights to look just right? You can save light settings and set them back to their exact state at a later date with just a few clicks.
+      Control all the smartlights in your from one app! Compatible with Philip's Hues, Nanoleafs, LIFX, and arduinos. 
     </p>
     <p>
-	This app does not require an account, external servers, or additional permissions such as location data. All communication is done on local wifi.
+      Access many color pickers, choose from a set of palettes, or make your own palettes. This app also supports lighting routines that change colors over time using any palette you want. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks. You can also set your lights to timeout and turn off with inactivity. 
     </p>
     <p>
-	For Arduinos, Corluma is compatible with the ArduCor sketch which is compatible with NeoPixels, Rainbowduinos, and standard LEDs. For Nanoleafs, Corluma is compatible with all lights except the Nanoleaf Essentials line. All Hues and all LIFX are compatible.
+      Corluma does not require an account, external servers, or additional permissions such as location to use your lights. No app features are locked behind a "pro" version, and all communication is done on local wifi.
+    </p>
+    <p>
+      For Nanoleafs, all lights except the Nanoleaf Essentials line are supported. For Hues, a bridge is required. For arduinos, it is compatible with the ArduCor sketch which can use NeoPixels, Rainbowduinos, and standard LEDs. It also supports connecting to arduino yuns over HTTP or UDP, and standard arduinos over serial.
     </p>
   </description>
   <screenshots>
@@ -32,13 +35,23 @@
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/routines_page.png</image>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/effects_page.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/effects_page.png</image>
+      <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/streams_page.png</image>
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.00.10" date="2024-01-21">
+      <description>
+          <ul>
+	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
+	    <li>Added a Streams page for controlling lights by sending a stream of commands.</li>
+	    <li>Added the ability to turn off discovery for any light type.</li>
+	    <li>Added full support for Nanoleaf 4D.</li>
+	    <li>Fixed miscellaneous bugs.</li>
+          </ul>
+      </description>
       <release version="0.41.27" date="2023-12-16">
       <description>
           <ul>
