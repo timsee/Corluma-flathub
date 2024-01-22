@@ -51,6 +51,7 @@
 	    <li>Added full support for Nanoleaf 4D.</li>
 	    <li>Fixed miscellaneous bugs.</li>
           </ul>
+      </release>
       </description>
       <release version="0.41.27" date="2023-12-16">
       <description>
