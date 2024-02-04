@@ -42,17 +42,19 @@
     </screenshot>
   </screenshots>
   <releases>
-      <release version="1.00.13" date="2024-01-28">
+      <release version="1.00.17" date="2024-02-04">
       <description>
           <ul>
 	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
 	    <li>Added a Streams page for controlling lights by sending a stream of commands.</li>
+	    <li>Added streaming for LIFX.</li>
 	    <li>Added the ability to turn off discovery for any light type.</li>
 	    <li>Added full support for Nanoleaf 4D.</li>
 	    <li>Fixed miscellaneous bugs.</li>
           </ul>
       </description>
       </release>
+      <release version="1.00.13" date="2024-01-28" />
       <release version="1.00.10" date="2024-01-21" />
       <release version="0.41.27" date="2023-12-16">
       <description>
