@@ -6,7 +6,7 @@
   <content_rating type="oars-1.1"/>
   <url type="homepage">https://corluma.net</url>
   <name>Corluma</name>
-  <summary>Control Philip's Hues, LIFX, Nanoleafs, and Arduinos.</summary>
+  <summary>For Hues, LIFX, Nanoleafs, and Arduinos.</summary>
   <categories>
     <category>Utility</category>
   </categories>
@@ -16,7 +16,7 @@
       Control all the smartlights in your home from one app! Access many color pickers, choose from a set of palettes, or make your own palettes. You can also use effects that change colors over time using any palette you want. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks.
     </p>
     <p>
-      Corluma does not require an account, external servers, or additional permissions such as location to use your lights. All communication is done on local wifi.
+      Corluma does not require an account or external servers. All communication is done on local wifi.
     </p>
     <p>
       For Nanoleafs, all lights except the Nanoleaf Essentials line are supported. For Hues, a bridge is required. For arduinos, it is compatible with the ArduCor sketch which can use NeoPixels, Rainbowduinos, and standard LEDs.
@@ -25,22 +25,27 @@
   <screenshots>
     <screenshot type="default">
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/color_page.png</image>
+      <caption>Choose colors using pickers or swatches</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/lights_page.png</image>
+      <caption>Find new lights, access settings, or delete existing lights</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
+      <caption>Choose or create palettes</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/effects_page.png</image>
+      <caption>Use effects to change colors over time</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/streams_page.png</image>
+      <caption>Stream colors to lights</caption>
     </screenshot>
   </screenshots>
   <releases>
-      <release version="1.00.18" date="2024-02-04">
+      <release version="1.00.18" date="2024-02-05">
       <description>
           <ul>
 	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
