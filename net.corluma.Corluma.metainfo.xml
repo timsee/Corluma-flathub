@@ -12,15 +12,15 @@
   </categories>
   <developer_name>Corluma Productions</developer_name>
   <description>
-    <p>
-      Control all the smartlights in your home from one app! Access many color pickers, choose from a set of palettes, or make your own palettes. You can also use effects that change colors over time using any palette you want. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks.
-    </p>
-    <p>
-      Corluma does not require an account or external servers. All communication is done on local wifi.
-    </p>
-    <p>
-      For Nanoleafs, all lights except the Nanoleaf Essentials line are supported. For Hues, a bridge is required. For arduinos, it is compatible with the ArduCor sketch which can use NeoPixels, Rainbowduinos, and standard LEDs.
-    </p>
+    <p>Control all the smartlights in your home from one app! Use color wheels, swatches, or palettes to change the colors of your lights. You can also use effects and streams to change colors over time. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks, add timeouts, access light specific features such as screen mirroring on Nanoleaf 4D lights, and more!</p>
+    <p>Corluma does not require an account, a subscription, or external servers. All communication is done on local wifi.</p>
+    <p>Compatability</p>
+    <ul>
+      <li><b>Hues:</b> all lights supported, bridge required</li>
+      <li><b>LIFX:</b> all bulbs, multizone, and tiles supported</li>
+      <li><b>Nanoleafs:</b> all lights except the Nanoleaf Essentials line supported</li>
+      <li><b>Arduinos:</b> supports the ArduCor sketch, which can use NeoPixels, Rainbowduinos, and standard LEDs</li>
+    </ul>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -45,7 +45,7 @@
     </screenshot>
   </screenshots>
   <releases>
-      <release version="1.00.18" date="2024-02-05">
+      <release version="1.00.23" date="2024-02-15">
       <description>
           <ul>
 	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
@@ -57,6 +57,7 @@
           </ul>
       </description>
       </release>
+      <release version="1.00.18" date="2024-02-05">
       <release version="1.00.17" date="2024-02-04" />
       <release version="1.00.13" date="2024-01-28" />
       <release version="1.00.10" date="2024-01-21" />
