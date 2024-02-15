@@ -49,9 +49,8 @@
       <description>
           <ul>
 	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
-	    <li>Added a Streams page for controlling lights by sending a stream of commands.</li>
-	    <li>Added streaming for LIFX.</li>
-	    <li>Added the ability to turn off discovery for any light type.</li>
+	    <li>Added a Streams page for controlling Hues and LIFX by sending a stream of commands.</li>
+	    <li>Added the ability to disable any light type.</li>
 	    <li>Added full support for Nanoleaf 4D.</li>
 	    <li>Fixed miscellaneous bugs.</li>
           </ul>
