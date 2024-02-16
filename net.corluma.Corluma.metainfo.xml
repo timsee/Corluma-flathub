@@ -20,7 +20,7 @@
       <li><b>LIFX:</b> all bulbs, multizone, and tiles supported</li>
       <li><b>Nanoleafs:</b> all lights except the Nanoleaf Essentials line supported</li>
       <li><b>Arduinos:</b> supports the ArduCor sketch, which can use NeoPixels, Rainbowduinos, and standard LEDs</li>
-    </ul>
+    </ul>  
   </description>
   <screenshots>
     <screenshot type="default">
@@ -29,7 +29,7 @@
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/lights_page.png</image>
-      <caption>Find new lights, access settings, or delete existing lights</caption>
+      <caption>Find, delete, and manage lights</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/timsee/Corluma-flathub/main/screenshots/palette_page.png</image>
@@ -47,6 +47,7 @@
   <releases>
       <release version="1.00.23" date="2024-02-15">
       <description>
+          <p>v1.00 Release</p>
           <ul>
 	    <li>Added a Timeout page for configuring lights to turn off in the future.</li>
 	    <li>Added a Streams page for controlling Hues and LIFX by sending a stream of commands.</li>
@@ -62,6 +63,7 @@
       <release version="1.00.10" date="2024-01-21" />
       <release version="0.41.27" date="2023-12-16">
       <description>
+          <p>Hue Streaming Release</p>
           <ul>
             <li>Added support for streaming colors to Hues, allowing them to change over time.</li>
             <li>Added new palettes.</li>
@@ -72,6 +74,7 @@
       </release>
       <release version="0.40.14" date="2023-10-24">
       <description>
+          <p>Effects Update Release</p>
           <ul>
             <li>Moved Effects from the Routines page into its own page.</li>
             <li>Consolidated the Routines page.</li>
@@ -82,13 +85,12 @@
      </release>
       <release version="0.39.11" date="2023-09-06">
       <description>
-          <ul>
-            <li>Updated the Routines page.</li>
-          </ul>
+          <p>Updated the Routines page.</p>
       </description>
      </release>
       <release version="0.39.09" date="2023-09-04">
       <description>
+          <p>Bug Fixes</p>
           <ul>
             <li>Updated the Routines page.</li>
             <li>Moved saving and loading backup data to the Documents directory.</li>
@@ -99,6 +101,7 @@
      </release>
       <release version="0.38.04" date="2023-08-20">
       <description>
+          <p>Bug Fixes</p>
           <ul>
             <li>Added support for Hue Gradient lights.</li>
             <li>Made the brightness of Nanoleafs more consistent when switching from Scenes to Routines.</li>
@@ -108,6 +111,7 @@
      </release>
      <release version="0.37.21" date="2023-08-13">
       <description>
+          <p>Location Release</p>
           <ul>
             <li>Added support for grouping lights by location (IE, Home, Beach House, Work).</li>
             <li>Added better support for light firmware effects, such as the "Candle" and "Fire" effects on newer Hues.</li>
@@ -117,6 +121,7 @@
      </release>
      <release version="0.36.05" date="2023-07-01">
       <description>
+          <p>Bug Fixes</p>
           <ul>
             <li>Fixed UI bugs when handling multiple Hue Bridges.</li>
             <li>Added more information to LIFX discovery widgets.</li>
