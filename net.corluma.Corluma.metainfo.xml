@@ -16,10 +16,10 @@
     <p>Corluma does not require an account, a subscription, or external servers. All communication is done on local wifi.</p>
     <p>Compatability</p>
     <ul>
-      <li><b>Hues:</b> all lights supported, bridge required</li>
-      <li><b>LIFX:</b> all bulbs, multizone, and tiles supported</li>
-      <li><b>Nanoleafs:</b> all lights except the Nanoleaf Essentials line supported</li>
-      <li><b>Arduinos:</b> supports the ArduCor sketch, which can use NeoPixels, Rainbowduinos, and standard LEDs</li>
+      <li>Hues: all lights supported, bridge required</li>
+      <li>LIFX: all bulbs, multizone, and tiles supported</li>
+      <li>Nanoleafs: all lights except the Nanoleaf Essentials line supported</li>
+      <li>Arduinos: supports the ArduCor sketch, which can use NeoPixels, Rainbowduinos, and standard LEDs</li>
     </ul>  
   </description>
   <screenshots>
@@ -131,7 +131,6 @@
     </release>
     <release version="0.35.14" date="2023-06-18"/>
   </releases>
-  <url type="homepage">https://corluma.net</url>
   <url type="bugtracker">https://corluma.net/contact</url>
   <launchable type="desktop-id">net.corluma.Corluma.desktop</launchable>
 </component>
