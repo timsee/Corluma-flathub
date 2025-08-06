@@ -45,6 +45,16 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.04.01" date="2025-08-06">
+      <description>
+          <p>v1.04 Release</p>
+          <ul>
+	    <li>Added support for additional Hue Effects such as Underwater and Cosmos</li>
+	    <li>Fixed a bug with handling SSL for Hues.</li>
+	    <li>Fixed a bug with discovering serial ports.</li>
+          </ul>
+      </description>
+      </release>
       <release version="1.00.23" date="2024-02-15">
       <description>
           <p>v1.00 Release</p>
