@@ -12,9 +12,9 @@
   </categories>
   <developer_name>Corluma Productions</developer_name>
   <description>
-    <p>Control all the smartlights in your home from one app! Use color wheels, swatches, or palettes to change the colors of your lights. You can also use effects and streams to change colors over time. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks, add timeouts, access light specific features such as screen mirroring on Nanoleaf 4D lights, and more!</p>
+    <p>Control all the smart lights in your home from one app! Use color wheels, swatches, or palettes to change the colors of your lights. You can also use effects and streams to change colors over time. Do you have too many lights? Simplify managing them by grouping them and controlling them all at once. Save your favorite settings and reset them back to their exact state at any time with just a few clicks, add timeouts, access light specific features such as screen mirroring on Nanoleaf 4D lights, and more!</p>
     <p>Corluma does not require an account, a subscription, or external servers. All communication is done on local wifi.</p>
-    <p>Compatability</p>
+    <p>Compatibility</p>
     <ul>
       <li>Hues: all lights supported, bridge required</li>
       <li>LIFX: all bulbs, multizone, and tiles supported</li>
@@ -45,6 +45,16 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.06.06" date="2026-06-20">
+      <description>
+          <p>v1.06 Release</p>
+          <ul>
+	    <li>Added support for new Hue Effects with configurable colors.</li>
+	    <li>Improved light discovery.</li>
+	    <li>Optimized app performance.</li>
+          </ul>
+      </description>
+      </release>
       <release version="1.05.01" date="2025-12-24">
       <description>
           <p>v1.05 Release</p>
