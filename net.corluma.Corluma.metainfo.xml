@@ -45,6 +45,15 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.06.14" date="2026-06-22">
+      <description>
+          <p>v1.06 Release</p>
+          <ul>
+	    <li>Fixed LIFX light display on the lights page</li>
+	    <li>Fixed miscellaneous bugs</li>
+          </ul>
+      </description>
+      </release>
       <release version="1.06.11" date="2026-06-21">
       <description>
           <p>v1.06 Release</p>
