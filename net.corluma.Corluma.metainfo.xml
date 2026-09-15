@@ -45,6 +45,15 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.07.05" date="2026-09-14">
+      <description>
+          <p>v1.07 Release</p>
+          <ul>
+	    <li>Add support for Hue Bridge Pro</li>
+	    <li>Fix discovery of lights</li>
+          </ul>
+      </description>
+      </release>
       <release version="1.06.14" date="2026-06-22">
       <description>
           <p>v1.06 Release</p>
