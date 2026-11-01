@@ -6,7 +6,7 @@
   <content_rating type="oars-1.1"/>
   <url type="homepage">https://corluma.net</url>
   <name>Corluma</name>
-  <summary>For Hues, LIFX, Nanoleafs, and Arduinos.</summary>
+  <summary>For Hues, LIFX, Nanoleafs, WLED, and Arduinos.</summary>
   <categories>
     <category>Utility</category>
   </categories>
@@ -20,6 +20,7 @@
       <li>LIFX: all bulbs, multizone, and tiles supported</li>
       <li>Nanoleafs: all lights except the Nanoleaf Essentials line supported</li>
       <li>Arduinos: supports the ArduCor sketch, which can use NeoPixels, Rainbowduinos, and standard LEDs</li>
+      <li>WLED: supports basic features with pass through to web interface</li>
     </ul>  
   </description>
   <screenshots>
@@ -45,6 +46,18 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="1.10.07" date="2026-11-01">
+      <description>
+          <p>v1.10 Release</p>
+          <ul>
+	    <li>Add support for WLED lights</li>
+	    <li>Add support for Hue Sync Box and Hue Play Screen Sync</li>
+	    <li>Optimized UI rendering and improved layout</li>
+	    <li>Improved light syncing speed and performance</li>
+	    <li>Fixed miscellaneous bugs</li>
+          </ul>
+      </description>
+      </release>
       <release version="1.07.05" date="2026-09-14">
       <description>
           <p>v1.07 Release</p>
