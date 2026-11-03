@@ -1,0 +1,63 @@
+Corluma End-User License Agreement
+
+Copyright (c) Timothy Seemann. All rights reserved.
+
+By downloading, installing, or using Corluma ("the Software"), you agree to
+these terms. If you do not agree, do not install or use the Software.
+
+1. License
+
+   You may install and use the Software for free, for personal or commercial
+   purposes, on as many devices as you like.
+
+2. Redistribution
+
+   You may share copies of the Software only as the original, unmodified
+   package. Flathub and its mirrors may host, build, package, and distribute
+   the Software through the Flathub repository.
+
+3. Restrictions
+
+   You may not sell the Software, modify it, or distribute modified copies.
+   You may not reverse engineer, decompile, or disassemble the Software,
+   except where the law allows it despite this restriction.
+
+4. Ownership
+
+   The Software is licensed, not sold. The author keeps all rights, title,
+   and interest in the Software, apart from the rights this agreement gives
+   you. Third-party components included with the Software are covered by
+   their own licenses.
+
+5. Third-party devices and services
+
+   Philips Hue, LIFX, Nanoleaf, WLED, and other names used in the Software
+   are trademarks of their owners. Corluma is not made by, endorsed by, or
+   affiliated with any of them. The Software talks to devices on your local
+   network. You are responsible for the devices and networks you use with it.
+
+6. Privacy
+
+   See https://www.corluma.net/privacy for how the Software handles data.
+
+7. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. Limitation of liability
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+9. Termination
+
+   This license ends automatically if you break any of these terms. When it
+   ends, you must stop using the Software and delete all copies.
+
+10. Changes
+
+   The author may update these terms with future versions of the Software.
